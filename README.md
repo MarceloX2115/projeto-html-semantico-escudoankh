@@ -18,11 +18,6 @@ O site foi construído seguindo os requisitos técnicos abaixo:
 - **Dados Tabulares:** Tabela completa com `<thead>`, `<tbody>`, `<tr>`, `<th>` e `<td>`.
 - **Navegação:** Links internos (âncoras) e links externos com `target="_blank"`.
 
-## 📁 Como rodar o projeto
-1. Clone este repositório ou baixe os arquivos.
-2. Certifique-se de que a imagem `escudo.png` está na mesma pasta que o arquivo `index.html`.
-3. Abra o arquivo `index.html` em qualquer navegador moderno.
-
 ## 🎮 Sobre o Tema
 O **Escudo de Ankh** é um dos acessórios mais complexos de Terraria. A página detalha todos os 11 materiais necessários, suas respectivas imunidades e um guia visual em vídeo para auxiliar o jogador na jornada de craft.
 
